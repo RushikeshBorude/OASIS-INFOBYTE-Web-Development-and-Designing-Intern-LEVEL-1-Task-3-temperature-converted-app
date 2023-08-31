@@ -1,3 +1,11 @@
-# oibsip_3
-This repository is dedicated to Level 1 Task 3 of OASIS Infobyte Internship in Web Development and Designing. 
-In this task, I have created a temperature converter, which converts temperature in Fahrenheit to Celsius and vice versa. I have completed it, using HTML, CSS and Java Script. 
+OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-3-temperature-converted-app
+
+# here below live link view of this projects
+https://rushikeshborude.github.io/OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-3-temperature-converted-app/
+
+
+
+
+# this is a images of projects 
+
+![Screenshot (13840)](https://github.com/RushikeshBorude/OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-3-temperature-converted-app/assets/86228914/fe139271-fa86-4302-9551-a905604ba984)
